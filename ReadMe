@@ -1,0 +1,27 @@
+# 项目背景
+基于qt5.11 QWebEngineView 实现百度地图的基本功能
+依赖 qtwebengine 模块 你需要自行安装
+
+
+#安装
+cd ../
+mkdir build_qwebtest_release
+cp  makefile ../build_qwebtest_release
+cp -r vsCodeDir ../build_qwebtest_release
+cd ../build_qwebtest_release
+make
+
+#用法
+这是一个桌面应用程序 您可以直接双击运行
+./QWebTest
+
+#主要项目负责人
+liuWH
+
+#参与贡献方式
+这是一个示例程序 你可以完善后自行提交
+或者联系我
+2398819901@qq.com
+
+
+
